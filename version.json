@@ -1,4 +1,6 @@
 {
   "version": "3.28.0",
-  "published_at": "2026-10-19T23:05:01Z"
+  "published_at": "2026-10-19T23:05:01Z",
+  "installer_sha256": "df0c6a62c00300304c5645f58149445cdf0fa9f71094ddbf15a934e5f854d782",
+  "environment_digest": "be883eec059c88a2"
 }
