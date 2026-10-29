@@ -1,6 +1,4 @@
 {
-  "version": "3.31.2",
-  "published_at": "2026-10-28T13:25:21Z",
-  "installer_sha256": "1ca14f61021ff242197a91e7db9bccc893dfcef6a77ffa02016d9d533049a7df",
-  "environment_digest": "1b682cb78bcada3b"
+  "version": "3.31.3",
+  "published_at": "2026-10-29T04:32:34Z"
 }
